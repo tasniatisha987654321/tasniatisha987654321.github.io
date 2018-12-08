@@ -12,9 +12,10 @@
 		<div class="taskbar">
 		   <nav>
 				<ul>
-					<li><a href="Educational Qualifications.html">Educational Qualifications</a></li>
-					<li><a href="Hobbies.html">Hobbies</a></li>
-					<li><a href="Future plan.html">Future plan</a></li>
+					<li><a href="">Educational Qualifications</a></li>
+					<li><a href="">Hobbies</a></li>
+					<li><a href="#">Achievment</a></li>
+					<li><a href="#">Future plan</a></li>
 				</ul>
 				</nav>
 		</div>
